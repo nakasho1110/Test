@@ -13,4 +13,6 @@ plt.plot(x, tanh(x),
          x, np.sin(x),
          x, np.cos(x))
 
+# show the plot
 plt.show()
+
